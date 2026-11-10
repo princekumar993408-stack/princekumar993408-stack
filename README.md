@@ -135,8 +135,8 @@ A showcase of practical engineering, machine learning pipelines, and embedded Io
 
 | Project | Domain | Stack | Status | Description |
 | :--- | :---: | :--- | :---: | :--- |
-| **AI Research Assistant** | AI / RAG | `FastAPI` `React` `LangChain` `FAISS` | 🟡 **In Active Development** | Multi-document research comprehension system with semantic search, PDF analysis, citation generation, and offline local LLM execution. |
-| **Real-Time Cyclone Prediction** | Computer Vision / Met | `PyTorch` `OpenCV` `FastAPI` `Leaflet` | 🔵 **Architecture Phase** | Atmospheric satellite imagery pipeline for cyclone identification, trajectory tracking, and intensity classification with uncertainty bounds. |
+| **[AI Research Assistant](https://github.com/princekumar993408-stack/ai-research-assistant)** | AI / RAG | `FastAPI` `React` `LangChain` `NumPy` | 🟢 **Production v2.0** | Full-stack multi-document scientific research analysis engine with PDF semantic ingestion, RAG citation Q&A, multi-paper comparison, and offline operation. |
+| **[Cyclone Prediction System](https://github.com/princekumar993408-stack/cyclone-prediction-system)** | Computer Vision / Met | `PyTorch` `OpenCV` `FastAPI` `React` `Leaflet` | 🟢 **Production v2.0** | Deep learning meteorological intelligence platform for INSAT-3D thermal IR eye detection, Atkinson-Holliday wind/pressure estimation, and beta-drift trajectory forecasting. |
 | **Microbial Fuel Cell Monitor** | IoT / Energy | `ESP32` `MQTT` `Python` `PostgreSQL` | 🟡 **Hardware & Lab Testing** | Continuous bio-electrochemical telemetry system logging real-time voltage, current, and power curves with automated anomaly detection. |
 | **AI Resume & ATS Analyzer** | NLP / Career Tech | `Python` `FastAPI` `React` `NLP` | 🔵 **Planned** | Parsing and semantic matching engine comparing CV credentials against job specifications to identify skill gaps and ATS compatibility. |
 | **Personal AI Knowledge Base** | AI / Personal KM | `Python` `SQLite` `ChromaDB` `React` | 🔵 **Planned** | Local-first semantic memory hub supporting document storage, knowledge graph mapping, and offline conversational querying. |
